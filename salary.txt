@@ -3,4 +3,4 @@ hari     40000
 ashvi    25000
 jayasree 80000
 udwik    10000
-puri     200000
+satish   160000
