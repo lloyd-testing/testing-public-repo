@@ -4,3 +4,5 @@ ashvi    25000
 jayasree 80000
 udwik    10000
 satish   160000
+
+salaries are uptodate
